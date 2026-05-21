@@ -9,7 +9,7 @@
         "dimension": 60.71953010279001,
         "children": [
           {
-            "id": "763f56fe5d1f31d1",
+            "id": "7839fb5fc335978e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Magic System"
             }
+          },
+          {
+            "id": "763f56fe5d1f31d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-Demons/Demon Roster Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Demon Roster Overview"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "43ea01ddb43a09a1",
@@ -202,8 +217,9 @@
   },
   "active": "763f56fe5d1f31d1",
   "lastOpenFiles": [
-    "00-Core/NG+ System.md",
     "00-Core/Magic System.md",
+    "03-Demons/Demon Roster Overview.md",
+    "00-Core/NG+ System.md",
     "05-Reference/Pseudo-Dionysius Notes.md",
     "05-Reference/Ars Goetia Notes.md",
     "04-Bosses/Bael.md",
@@ -211,7 +227,6 @@
     "04-Bosses/Paimon.md",
     "04-Bosses/Asmodai.md",
     "03-Demons/Focalor.md",
-    "03-Demons/Demon Roster Overview.md",
     "03-Demons/Andras.md",
     "03-Demons/Alloces.md",
     "00-Core/Divine Light System.md",
