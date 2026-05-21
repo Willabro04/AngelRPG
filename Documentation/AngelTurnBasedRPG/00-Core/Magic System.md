@@ -52,16 +52,16 @@ minimum damage = 1
 
 One magic option per rank from Archangel onward. These are starting suggestions — finalize in each rank's upgrade file.
 
-| Rank         | Magic Upgrade Option      | Element   | Notes                                                                                            |
-| ------------ | ------------------------- | --------- | ------------------------------------------------------------------------------------------------ |
-| Archangel    | [Weak fire attack]        | Fire      | First magic available — low cost, low damage, teaches the system                                 |
-| Principality | [Weak earth attack]       | Earth     | First magic of a second element available — low cost, low damage, teaches about demon weaknesses |
-| Power        | [Medium lightning attack] | Lightning | First magic of a second tier of magic available — medium cost, better damage than low            |
-| Virtue       | [Heal — restores HP]      | Holy      | Non-damaging — spend MANA to restore health instead                                              |
-| Dominion     | [Medium fire attack]      | Fire      | A attack                                                                                         |
-| Throne       | [TBD]                     | [TBD]     |                                                                                                  |
-| Cherubim     | [TBD]                     | [TBD]     |                                                                                                  |
-| Seraphim     | [TBD]                     | [TBD]     | Highest tier — should feel appropriately overwhelming                                            |
+| Rank         | Magic Upgrade Option           | Element   | Notes                                                                                              |
+| ------------ | ------------------------------ | --------- | -------------------------------------------------------------------------------------------------- |
+| Archangel    | [Weak fire attack]             | Fire      | First magic available — low cost, low damage, teaches the system                                   |
+| Principality | [Weak earth attack]            | Earth     | First magic of a second element available — low cost, low damage, teaches about demon weaknesses   |
+| Power        | [Medium lightning attack]      | Lightning | First magic of a second tier of magic available — medium cost, better damage than low              |
+| Virtue       | [Heal — restores HP]           | Holy      | Non-damaging — spend MANA to restore health instead                                                |
+| Dominion     | [Medium earth attack]          | Earth     | A second earth attack with higher damage than before                                               |
+| Throne       | [Holy Heal — restores more HP] | Holy      | The first holy attack, drains all MANA, but takes hp away from the enemy and adds it to the player |
+| Cherubim     | [Heavy cosmic attack]          | Cosmic    | The first Cosmic attack, drains large amounts of mana, but deals incredible damage                 |
+| Seraphim     | [Heavy void attack]            | Void      | Highest tier — should feel appropriately overwhelming                                              |
 
 > Fill in TBD entries when writing each rank's upgrade file. Each magic attack should feel thematically tied to the angel's rank — a Throne attack should feel heavier and more authoritative than an Archangel attack.
 
