@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "b15620aabde0d60c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e240d35532d4b291",
+        "type": "tabs",
+        "dimension": 60.71953010279001,
+        "children": [
+          {
+            "id": "763f56fe5d1f31d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Core/Combat System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat System"
+            }
+          }
+        ]
+      },
+      {
+        "id": "43ea01ddb43a09a1",
+        "type": "tabs",
+        "dimension": 39.28046989720998,
+        "children": [
+          {
+            "id": "8edb1b5e2d4997fe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "445ce9c22217838e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e93ead33a73d9cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6191065afb329e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87e903b46896dd0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d295d90845aa4050",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8cd2223bd85a426",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7ed0a832b309af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b20b59e452a675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b69f59b89626dbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7874e979c7fce0af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62dc13053c4a8600",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fdf7123233aee512",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "763f56fe5d1f31d1",
+  "lastOpenFiles": [
+    "2026-05-21.md",
+    "00-Core/Combat System.md",
+    "00-Core/Magic System.md",
+    "00-Core/NG+ System.md",
+    "00-Core/Divine Light System.md",
+    "00-Core/Core Loop.md",
+    "00 - Core/Combat System.md",
+    "05-Reference/Pseudo-Dionysius Notes.md",
+    "05-Reference/Ars Goetia Notes.md",
+    "05-Reference",
+    "04-Bosses/Paimon.md",
+    "04-Bosses/Beleth.md",
+    "04-Bosses/Bael.md",
+    "04-Bosses/Asmodai.md",
+    "04-Bosses",
+    "03-Demons/Vepar.md",
+    "03-Demons/Ronove.md",
+    "03-Demons/Ipos.md",
+    "03-Demons/Naberius.md",
+    "03-Demons/Gaap.md",
+    "03-Demons/Focalor.md",
+    "03-Demons/Furfur.md",
+    "03-Demons/Demon Roster Overview.md",
+    "03-Demons/Andras.md",
+    "03-Demons/Alloces.md",
+    "03-Demons",
+    "02-Upgrades/Throne Upgrades.md",
+    "02-Upgrades/Power Upgrades.md",
+    "02-Upgrades/Virtue Upgrades.md",
+    "02-Upgrades",
+    "01-Angels",
+    "00-Core",
+    "hierarchy-vault/hierarchy-vault/01-Angels",
+    "hierarchy-vault/hierarchy-vault/03-Demons",
+    "hierarchy-vault/hierarchy-vault/_Dev Log",
+    "hierarchy-vault/hierarchy-vault/04-Bosses",
+    "00 - Core/Loop Diagram.canvas"
+  ]
+}
