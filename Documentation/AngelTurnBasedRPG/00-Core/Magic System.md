@@ -61,9 +61,8 @@ One magic option per rank from Archangel onward. These are starting suggestions 
 | Dominion     | [Medium earth attack]          | Earth     | A second earth attack with higher damage than before                                               |
 | Throne       | [Holy Heal — restores more HP] | Holy      | The first holy attack, drains all MANA, but takes hp away from the enemy and adds it to the player |
 | Cherubim     | [Heavy cosmic attack]          | Cosmic    | The first Cosmic attack, drains large amounts of mana, but deals incredible damage                 |
-| Seraphim     | [Heavy void attack]            | Void      | Highest tier — should feel appropriately overwhelming                                              |
+| Seraphim     | [Heavy void attack]            | Void      | Highest magic attack in the base game pre-new game plus.                                           |
 
-> Fill in TBD entries when writing each rank's upgrade file. Each magic attack should feel thematically tied to the angel's rank — a Throne attack should feel heavier and more authoritative than an Archangel attack.
 
 ---
 
@@ -71,13 +70,14 @@ One magic option per rank from Archangel onward. These are starting suggestions 
 
 **Decided elements (tentative — expand or trim as needed):**
 
-| Element | Description |
-|---------|-------------|
-| Fire | Burning, consuming — associated with lower Sphere ranks |
-| Holy | Radiant, purifying — associated with mid Sphere ranks |
-| [TBD] | [Third element — consider Storm, Dark, or Void for Sphere 3] |
-
-> Decide the full element list before writing individual demon weakness entries. Every demon file will reference this table.
+| Element   | Description                                                                             |
+| --------- | --------------------------------------------------------------------------------------- |
+| Fire      | Burning, consuming — associated with lower Sphere ranks                                 |
+| Holy      | Radiant, purifying — associated with mid Sphere ranks                                   |
+| Earth     | Tough, ravaging — associated with lower sphere ranks                                    |
+| Lightning | Powerful, radiant — associated with mid Sphere ranks                                    |
+| Cosmic    | Gigantic, awe-inspiring — associated with high Sphere ranks                             |
+| Void      | All-consuming, a combination of all elements — associated with the highest ranked angel |
 
 ---
 
