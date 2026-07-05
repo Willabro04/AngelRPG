@@ -51,11 +51,11 @@ Ronove attacks the player, any life taken from the player will be added to Ronov
 
 - 25% of the damage done to the player will be added to Ronove's life.
 - Only one turn, single move.
-- [Difficult
+- Not as difficult to manage due to Ronove being the first gate demon.
 
 **AI Behaviour:**
-- [What does this enemy do on its turns?]
-- [Any conditional logic?]
+- Attack -> Attack -> Life Siphon (when Ronove health is below 50%)
+- Only start using Life Siphon if Ronove's health is below 50%
 
 ---
 
