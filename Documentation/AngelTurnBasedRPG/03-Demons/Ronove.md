@@ -24,16 +24,16 @@ In [demonology](https://en.wikipedia.org/wiki/Demonology "Demonology"), **Ronove
 
 He is depicted as a monster holding a staff, without detailing his appearance. He is also described as taker of old souls; often coming to earth to harvest souls of decrepit humans and animals near death.
 
-> Ronove's job is to harvest souls of decrepit humans, meaning their guardian angel's would be weaker than those of non-decrepit humans with stronger will. So Ronove should act surprised when he actually senses danger from the guardian angel. Ronove will have a life siphon power, where every few turns he take's the player's life and adds a portion
+> Ronove's job is to harvest souls of decrepit humans, meaning their guardian angel's would be weaker than those of non-decrepit humans with stronger will. So Ronove should act surprised when he actually senses danger from the guardian angel. Ronove will have a life siphon power, where every few turns he take's the player's life and adds a portion of it to his own, due to him harvesting souls in his lore.
 
 ---
 
 ## Appearance (Sprite Reference)
 
-- Form: [Canonical Goetic appearance]
-- Tone: [Feeling the sprite should convey]
-- Key visual details: [Most important elements to capture]
-- Size: [Standard enemy / gate demon larger variant]
+- Form: A monster holding a staff
+- Tone: Slight fear due to his unique appearance, yet Ronove should also look fearful, yet maintain a smug demeanor.
+- Key visual details: The staff, as it is his main weapon, and his grin due to being cocky, yet afraid.
+- Size: Medium sized (between a normal enemy and the rest of the gate demons).
 
 **Animation states needed:**
 - [ ] Idle
@@ -45,13 +45,13 @@ He is depicted as a monster holding a staff, without detailing his appearance. H
 
 ## Battle Mechanic
 
-**[Mechanic Name]**
+Life Siphon
 
-[Describe the mechanic — what it does, when it triggers, how long it lasts.]
+Ronove attacks the player, any life taken from the player will be added to Ronove (health added will be 25% of the damage done to player).
 
-- [Mechanical details]
-- [Duration and stacking rules]
-- [Difficulty note]
+- 25% of the damage done to the player will be added to Ronove's life.
+- Only one turn, single move.
+- [Difficult
 
 **AI Behaviour:**
 - [What does this enemy do on its turns?]
