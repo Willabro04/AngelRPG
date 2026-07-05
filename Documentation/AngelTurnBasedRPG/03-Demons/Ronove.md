@@ -6,7 +6,7 @@
 
 ## Overview
 
-[One or two sentences on this demon's role in the game.]
+Used as the first major fight in the game within [[Sphere 1]]. Ronove tries to harvest the player's soul before realizing the guardian angel is there and is forced to fight.
 
 **Goetic Rank:** Marquis
 **Legions Commanded:** 19
@@ -20,9 +20,11 @@
 
 From the *Ars Goetia*:
 
-[Paste or paraphrase the original Goetia description here.]
+In [demonology](https://en.wikipedia.org/wiki/Demonology "Demonology"), **Ronove** is a Marquis and Great Earl of [Hell](https://en.wikipedia.org/wiki/Hell "Hell"), commanding nineteen[[1]](https://en.wikipedia.org/wiki/Ronove#cite_note-1) legions of [demons](https://en.wikipedia.org/wiki/Demon "Demon"). He teaches art, [rhetoric](https://en.wikipedia.org/wiki/Rhetoric "Rhetoric"), languages, and gives good and loyal servants the favour of friends and foes.
 
-> [Your design note — why does their lore connect to their gate role or battle mechanic?]
+He is depicted as a monster holding a staff, without detailing his appearance. He is also described as taker of old souls; often coming to earth to harvest souls of decrepit humans and animals near death.
+
+> Ronove's job is to harvest souls of decrepit humans, meaning their guardian angel's would be weaker than those of non-decrepit humans with stronger will. So Ronove should act surprised when he actually senses danger from the guardian angel. Ronove will have a life siphon power, where every few turns he take's the player's life and adds a portion
 
 ---
 
