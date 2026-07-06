@@ -69,9 +69,9 @@ Ronove attacks the player, any life taken from the player will be added to Ronov
 
 ## Stat Block
 
-| HP | ATK | DEF | SPD | MAG | MANA | Light Drop |
-|----|-----|-----|-----|-----|------|------------|
-| [value] | [value] | [value] | [value] | [value] | [value] | [value] |
+| HP  | ATK | DEF | SPD | MAG | MANA | Light Drop |
+| --- | --- | --- | --- | --- | ---- | ---------- |
+| 250 | 10  | 5   | 10  | 8   | 25   | 50         |
 
 ---
 

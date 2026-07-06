@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Core/Magic System.md",
+                "file": "00-Core/Combat System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic System"
+              "title": "Combat System"
             }
           },
           {
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Core/Combat System.md",
+                "file": "03-Demons/Ronove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat System"
+              "title": "Ronove"
             }
           }
         ],
@@ -217,12 +217,13 @@
   },
   "active": "763f56fe5d1f31d1",
   "lastOpenFiles": [
+    "00-Core/Combat System.md",
+    "03-Demons/Ronove.md",
     "00-Core/Divine Light System.md",
     "00-Core/Core Loop.md",
-    "03-Demons/Ronove.md",
+    "00-Core/Magic System.md",
     "03-Demons/Demon Roster Overview.md",
     "03-Demons/Focalor.md",
-    "00-Core/Magic System.md",
     "00-Core/NG+ System.md",
     "05-Reference/Pseudo-Dionysius Notes.md",
     "05-Reference/Ars Goetia Notes.md",
@@ -232,7 +233,6 @@
     "04-Bosses/Asmodai.md",
     "03-Demons/Andras.md",
     "03-Demons/Alloces.md",
-    "00-Core/Combat System.md",
     "2026-05-21.md",
     "00 - Core/Combat System.md",
     "05-Reference",
